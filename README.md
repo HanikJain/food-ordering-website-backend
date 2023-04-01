@@ -2,7 +2,7 @@
 Food ordering website made with MERN
 
 ## Project URL
-http://meals-monkey.herokuapp.com/
+https://meal-monkey.onrender.com/
 
 ## Project Setup
 To setup this project in your local machine follow the next 3 steps.
